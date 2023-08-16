@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shyam!</h1>
 <h3 align="center">Exploring the Boundaries of Web Development and I’m currently working on React Js and Node Js.</h3>
 
-- 🌱 I’m currently learning **React Js and Node Js.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
